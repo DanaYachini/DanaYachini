@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DanaYachini
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Digital sciences for 
+- 👀 I’m interested in python, NLP
+- 🌱 I’m currently graduating Digital sciences for 
 hi-Tech and Linguistics at TAU University.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me DanaYachini@gmail.com
 
 <!---
