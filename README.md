@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanaYachini
 - 👀 I’m interested in python, NLP, JS, web development, and almost anything involving code
-- 🌱 I’m currently graduating Digital sciences for 
+- 🌱 B.Sc. Digital sciences for 
 hi-Tech and Linguistics at TAU University.
 - 📫 How to reach me: DanaYachini@gmail.com
 
